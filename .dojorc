@@ -1,0 +1,8 @@
+{
+  "build-widget": {
+    "prefix": "dojo",
+    "widgets": [
+      "src/widgets/Geolocate"
+    ]
+  }
+}
