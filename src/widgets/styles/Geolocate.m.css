@@ -1,0 +1,12 @@
+.root {
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 40px auto;
+  align-items: center;
+}
+
+.icon {
+  height: 32px;
+  width: 32px;
+}

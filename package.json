@@ -11,7 +11,7 @@
     "test:all": "dojo build --mode unit && dojo build --mode functional && dojo test --all --config local"
   },
   "dependencies": {
-    "@dojo/cli-build-widget": "^6.0.1",
+    "@dojo/cli-build-widget": "^6.0.2",
     "@dojo/framework": "^6.0.0",
     "@dojo/themes": "^6.0.0",
     "@dojo/widgets": "^6.0.0",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@dojo/cli": "^6.0.0",
-    "@dojo/cli-build-app": "^6.0.0",
+    "@dojo/cli-build-app": "^6.0.9",
     "@dojo/cli-test-intern": "^6.0.0",
     "@types/node": "~9.6.5",
     "typescript": "~3.4.5"
